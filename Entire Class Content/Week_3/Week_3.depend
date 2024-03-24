@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1706834860 source:c:\users\wyatt\documents\codeblocks\codeblocks projects\week_3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

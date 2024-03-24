@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1700719136 source:c:\users\churc\documents\codeblocks projects\ee261 debug\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<math.h>
+	"EE261_Project.h"
+
+1700717222 c:\users\churc\documents\codeblocks projects\ee261 debug\ee261_project.h
+
+1703826046 source:c:\users\chuck\documents\codeblocks projects\ee261 debug\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<math.h>
+	"EE261_Project.h"
+
+1701283849 c:\users\chuck\documents\codeblocks projects\ee261 debug\ee261_project.h
+
+1703826048 source:c:\users\ccbland\onedrive - cal poly\documents\code blocks projects\ee261 debug\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<math.h>
+	"EE261_Project.h"
+
+1701283850 c:\users\ccbland\onedrive - cal poly\documents\code blocks projects\ee261 debug\ee261_project.h
+
+1705021457 source:c:\users\wyatt\documents\codeblocks\codeblocks projects\ee261 debug\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<math.h>
+	"EE261_Project.h"
+
+1705021457 c:\users\wyatt\documents\codeblocks\codeblocks projects\ee261 debug\ee261_project.h
+

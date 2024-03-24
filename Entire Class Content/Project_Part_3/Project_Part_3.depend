@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1709252947 source:c:\users\wyatt\documents\codeblocks\codeblocks projects\project_part_3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

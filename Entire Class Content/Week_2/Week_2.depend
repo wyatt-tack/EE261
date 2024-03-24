@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1705623033 source:c:\users\wyatt\documents\codeblocks\codeblocks projects\week_2\ee261_casting.c
+	<stdio.h>
+
+1705622596 source:c:\users\wyatt\documents\codeblocks\codeblocks projects\week_2\ee261_sizeof.c
+	<stdio.h>
+
+1705622596 source:c:\users\wyatt\documents\codeblocks\codeblocks projects\week_2\ee261_system_constants.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+	<float.h>
+

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1711238964 source:c:\users\wyatt\documents\codeblocks\codeblocks projects\project_part_5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"EE261_Project.h"
+
+1709856473 c:\users\wyatt\documents\codeblocks\codeblocks projects\project_part_5\ee261_project.h
+

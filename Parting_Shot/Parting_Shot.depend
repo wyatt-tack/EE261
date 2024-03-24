@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1710455309 source:c:\users\wyatt\documents\codeblocks\codeblocks projects\parting_shot\main.c
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<string.h>
+
+1710455690 source:c:\users\wyatt\documents\codeblocks\codeblocks projects\ee261\parting_shot\main.c
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<string.h>
+
